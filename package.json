@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-litzrsh-stomp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litzrsh/nuxt-litzrsh-stomp.git"
+  },
+  "author": "Jeeyoung Yoon <litzrsh@gmail.com> (https://github.com/litzrsh/litzrsh-stomp)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/litzrsh/nuxt-litzrsh-stomp/issues"
+  },
+  "homepage": "https://github.com/litzrsh/nuxt-litzrsh-stomp#readme",
+  "dependencies": {
+    "consola": "^2.15.0",
+    "defu": "^3.1.0",
+    "litzrsh-stomp": "^1.0.0"
+  }
+}
