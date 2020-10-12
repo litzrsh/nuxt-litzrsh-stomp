@@ -1,6 +1,6 @@
 {
   "name": "nuxt-litzrsh-stomp",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "lib/module.js",
   "scripts": {
@@ -19,6 +19,6 @@
   "dependencies": {
     "consola": "^2.15.0",
     "defu": "^3.1.0",
-    "litzrsh-stomp": "^1.0.0"
+    "litzrsh-stomp": "^1.0.1"
   }
 }
